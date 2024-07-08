@@ -2,9 +2,9 @@
 - 👀 I’m interested in cooding
 - 🌱 I’m currently learning at ecole des sciences byimana
 - 💞️ I’m looking to collaborate on websites development
-- 📫 How to reach me my email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me by iflambeaualbin250@gmail.com
+- 😄 Pronouns🥖
+- ⚡ Fun fact😲
 
 <!---
 flambeau-ux/flambeau-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
